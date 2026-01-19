@@ -30,7 +30,7 @@ Besides **GLD**, for additional correlation analysis, the project also incorpora
 
 The final  dataset structure as seen below consists of four tables: *gld_clean, DXY_clean, TNX_clean, GSPC_clean,* with a total row count of **1762 records**. All tables have the similar structure with the exact same columns and data types:
 
-<img width="1051" height="708" alt="image" src="https://github.com/user-attachments/assets/41cf6bff-ed66-4e60-9c91-5b63af6a166e" />
+<img width="1051" height="708" alt="image" src="https://github.com/user-attachments/assets/23f9e933-79de-40ba-b8bd-d971dae3202d" />
 
 <img width="392" height="319" alt="image" src="https://github.com/user-attachments/assets/1846f622-c690-487c-89b5-bced50784aa5" />
 
