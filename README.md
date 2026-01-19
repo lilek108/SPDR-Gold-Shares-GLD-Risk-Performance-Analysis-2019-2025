@@ -39,7 +39,7 @@ The final  dataset structure as seen below consists of four tables: *gld_clean, 
 
 # Executive Summary
 
-GLD has shown **strong price and returns growth** in recent years, accompanied by **elevated volatility**. Despite its **long-term stability and diversification benefits**, historical returns have not risen proportionally with price, indicating that the recent surge is an **unusual**, period-specific phenomenon rather than a structural trend. While **cyclical within-year fluctuations** provide **moderate short-term trading opportunities**, the recent performance should be interpreted with **caution**, as it brings **higher uncertainty** and **downside risk** rather than guaranteed future gains.
+GLD has shown **strong price and returns growth** in recent years, accompanied by **elevated volatility**. Despite its **long-term stability and diversification benefits**, historical returns have not risen proportionally with price, indicating that the recent surge is an **unusual, period-specific phenomenon** rather than a structural trend. **Low risk-adjusted performance**, together with the **absence of a sustained increase in returns** over most of the past seven years, **raises questions about the attractiveness of GLD as a long-term investment asset**. While cyclical within-year fluctuations provide **moderate short-term trading opportunities**, the recent performance should be interpreted with **caution**, as it implies **higher uncertainty and downside risk** rather than sustainable future gains.
 
 # Insights 
 
@@ -74,7 +74,7 @@ In contrast, the period from early 2024 to the end of 2025 was characterized by 
 
 **2. Short-Term Return Profile and Changing Trading Attractiveness of GLD**
 
-From 2019 to 2023, GLD exhibited **moderate potential for short-term trading**, with pronounced **within-year fluctuations in its 90-day rolling mean returns** offering tactical opportunities. However, the **absence of a consistent upward trend**, combined with an average daily return of **0.07%** and a Sharpe ratio of **0.64**, indicates **limited appeal for long-term investment**.
+From 2019 to 2023, GLD exhibited **moderate potential for short-term trading**, with pronounced **within-year fluctuations in its 90-day rolling mean returns** offering tactical opportunities. However, the **absence of a consistent upward trend**, combined with an average daily return of **0.07%** and a Sharpe ratio (risk-adjusted return) of **0.64**, indicates **limited appeal for long-term investment**.
 
 <img width="748" height="237" alt="image" src="https://github.com/user-attachments/assets/241a8486-12dc-4b77-898e-c44c2cd22827" />
 
