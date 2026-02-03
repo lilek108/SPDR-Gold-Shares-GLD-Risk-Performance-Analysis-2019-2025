@@ -45,6 +45,8 @@ GLD has shown **strong price and returns growth** in recent years, accompanied b
 
 **1. Sustained Long-Term Growth with a Recent Acceleration Phase**
 
+*"GLD’s price dynamics shifted from moderate, cyclical growth in 2019–2023 to a sharp and sustained upward surge in 2024–2025."*
+
 Over the past five years (2021-2025), GLD demonstrated strong and stable price appreciation, with its price increasing from **$151** to **$417**, resulting in a total cumulative return of **226.64%** and an annualized return of **18.44%**. These figures indicate a **sustained upward trend** in both price and returns, supporting the view of gold as a resilient long-term investment over the analyzed period.
 
 <img width="900" height="439" alt="image" src="https://github.com/user-attachments/assets/e7d49aba-87c5-44ce-8a57-075631e53ed8" />
@@ -73,6 +75,8 @@ In contrast, the period from early 2024 to the end of 2025 was characterized by 
 <br>
 
 **2. Short-Term Return Profile and Changing Trading Attractiveness of GLD**
+
+*"GLD’s risk-adjusted performance remained moderate and largely range-bound until 2023, with the strong improvement in returns and Sharpe ratio driven primarily by the exceptional dynamics of 2024–2025 rather than a sustained structural shift."*
 
 From 2019 to 2023, GLD exhibited **moderate potential for short-term trading**, with pronounced **within-year fluctuations in its 90-day rolling mean returns** offering tactical opportunities. However, the **absence of a consistent upward trend**, combined with an average daily return of **0.07%** and a Sharpe ratio (risk-adjusted return) of **0.64**, indicates **limited appeal for long-term investment**.
 
@@ -106,6 +110,8 @@ During 2024–2025, GLD’s **short-term trading attractiveness increased materi
 <br>
 
 **3. Volatility Changes and Historical Drawdowns**
+
+*"GLD’s volatility intensified significantly in 2024–2025, but the increase was driven primarily by rapid price appreciation rather than deeper drawdowns, indicating higher momentum rather than elevated downside risk."*
 
 Overall, the **1‑year rolling volatility increased** over the past **five years**. This growth, however, was **not consistent**. Volatility stood at approximately **18%** at the beginning of 2021, declined to a **minimum of 11.18%** in early 2024, and later reached a **peak of 21.59%** in November 2025. In contrast, the drawdown chart demonstrated an **overall downward trend with smaller fluctuations**, reaching its maximum in late 2022. For the entire period, the annualized volatility was **15.75%**, while the **maximum** drawdown reached **–22.00%**.
 
@@ -141,6 +147,8 @@ During 2024–2025, the 1‑year rolling volatility increased markedly, rising f
 <br>
 
 **4. Correlations Overview and Diversification Attractiveness**
+
+*"GLD shows low correlation with major market assets, reinforcing its role as an effective portfolio diversifier."*
 
 The correlation matrix for GLD, TNX, GSPC, and DXY indicates that GLD returns exhibit **no strong correlation** with the returns of the other assets. The strongest observed relationship is a **moderate negative correlation** with **DXY** (–0.35). GLD also shows a **weak negative correlation** with **TNX** (–0.26) and an **essentially insignificant positive correlation** with **GSPC** (0.11). Overall, the limited correlation between GLD and the selected assets underscores its **attractiveness as a diversifying component** within a portfolio.
 
